@@ -1,0 +1,6 @@
+*.app
+.cake
+Closet/native
+classes/
+lib/
+native/
