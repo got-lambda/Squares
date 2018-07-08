@@ -4,3 +4,5 @@ Closet/native
 classes/
 lib/
 native/
+.DS_Store
+target
